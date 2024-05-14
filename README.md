@@ -1,16 +1,15 @@
-### Hi there 👋
+### vindas ao meu perfil 👋
 
-<!--
-**dUdUahh/dUdUahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Cadu mas eu prefiro dudu
 
-Here are some ideas to get you started:
+- Estou treinando volei, e pretendo levar para o profissional;
+- Pretendo fazer faculdade de artes cenicas
+- Sou interessado em IA e sou de exatas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce entra em contato comigo
+
+  cadusouza.2107@gmail.com
+
+<img src="https://media1.tenor.com/m/uO37-aKreAEAAAAC/kakashi-naruto.gif" alt="Kakashi Naruto GIF - Kakashi Naruto Kakashi Hatake GIFs"/>
+
+
